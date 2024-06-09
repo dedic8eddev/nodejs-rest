@@ -1,0 +1,7 @@
+.vscode
+coverage/
+dist/
+docs/
+node_modules/
+.scannerwork/
+dependency-check-report.xml
